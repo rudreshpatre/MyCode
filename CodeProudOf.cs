@@ -1,3 +1,5 @@
+//In this code, I demonstrate improved practices such as proper variable naming, minimal if-else logic, proper use of try-catch blocks,
+//dependency injection, and coding against interfaces, unit testable.
 using System;
 
 public class OrderProcessor
