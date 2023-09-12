@@ -1,3 +1,6 @@
+//In this class, I demonstrate past bad practices such as poor variable naming, excessive if-else nesting, lack of try-catch blocks, 
+//absence of dependency injection, and code repetition across methods, code not unit testable. 
+
 using System;
 
 public class OrderProcessor
